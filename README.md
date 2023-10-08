@@ -22,4 +22,5 @@
 
 # Запуск на локальном компьютере
 Для запуска необходимо установить Python 3. Кроме того нужно установить зависимости через команду `pip install pandas matplotlib seaborn lightgbm scikit-learn`
+
 Также необходимо сохранить по пути ./datasets тренировочный и тестовые датасеты: https://disk.yandex.ru/d/NjFW1XpN_zuVgg и https://disk.yandex.ru/d/xBCzH5obmfR48A
